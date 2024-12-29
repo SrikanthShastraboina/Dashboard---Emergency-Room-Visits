@@ -90,14 +90,6 @@ The analysis captures:
 ```
 ---
 
-## Contributing
-```bash
-Contributions are welcome! Please fork this repository and submit a pull request with proposed changes.
-```
----
-```
----
-
 ## Contact
 ```bash
 For any questions or feedback, feel free to open an issue or reach out to the repository maintainer.
