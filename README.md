@@ -94,13 +94,7 @@ The analysis captures:
 ```bash
 Contributions are welcome! Please fork this repository and submit a pull request with proposed changes.
 ```
----
 
-## License
-```bash
-Include the appropriate license here. If undecided, consider common open-source licenses like MIT, Apache 2.0, or GPL.
-```
----
 
 ## Contact
 ```bash
